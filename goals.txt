@@ -1,0 +1,6 @@
+# My Personal and Academic Goals for Next Year
+
+- Improve my programming skills by learning Python and JavaScript.
+- Complete at least two personal projects.
+- Participate in coding challenges regularly.
+- Enhance my understanding of version control and collaboration tools.
