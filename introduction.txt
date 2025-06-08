@@ -1,0 +1,5 @@
+# Brief Introduction About Myself
+
+Hello! My name is [Your Name]. I am excited to start learning GitHub and version control. I enjoy working on projects related to software development and technology.
+
+I look forward to improving my skills and collaborating with others through GitHub.
